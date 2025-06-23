@@ -293,7 +293,7 @@
   scrollbar-width: thin;
   scrollbar-color: #888 #222;
 }
- /* removed scrollbar */
+ /* removed scrollbar to improve UI */
 html, body {
   @apply scrollbar-hide;
 }
