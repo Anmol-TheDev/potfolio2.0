@@ -289,86 +289,72 @@
   ],
   "projects": [
     {
-      "name": "pixelsaffron",
+      "name": "DealAmaze",
       "isActive": true,
-      "description": "A landing page for a startup with beautiful design and smooth animations.",
+      "description": "A comprehensive eCommerce platform similar to Amazon, featuring full functionality for both sellers and consumers with advanced product management and seamless shopping experience.",
       "highlights": [
-        "GSAP animations",
-        "Beautiful design",
-        "Smooth animations"
+        "🛒 Multi-vendor Marketplace",
+        "📦 Advanced Order Management",
+        "💳 Secure Payment Integration",
+        "🏪 Seller Dashboard & Analytics",
+        "🔍 Smart Product Search & Filtering",
+        "📱 Responsive Mobile Design",
+        "🚚 Real-time Order Tracking",
+        "⭐ Review & Rating System"
       ],
       "stack": {
-        "Vue": "simple-icons:vuedotjs",
-        "GSAP": "simple-icons:greensock",
-        "Tailwind": "mdi:tailwind"
-      },
-      "url": "https://pixelsaffron.in"
-    },
-{
-  "name": "ParticleFX",
-  "isActive": true,
-  "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
-  "highlights": [
-    "🖼️ Turn Images into Particles",
-    "🌀 Hover & Click Effects",
-    "🎨 Custom Shapes & Filters",
-    "⚙️ Configurable Physics",
-    "📱 Responsive Design",
-    "📸 Export as PNG",
-    "📦 TypeScript Ready",
-    "✨ Works Without Any Framework"
-  ],
-  "stack": {
-    "JavaScript": "simple-icons:javascript",
-    "TypeScript": "simple-icons:typescript",
-    "CanvasAPI": "mdi:draw",
-    "HTML5": "simple-icons:html5"
-  },
-  "url": "https://particlefx.anmol.pro"
-},
-    {
-      "name": "Social Media WebApp",
-      "isActive": false,
-      "description": "A modern social media application designed for real-time interaction and user engagement",
-      "highlights": [
-        "📝 CRUD Posts (Create, Read, Update, Delete)",
-        "💬 Real-time Chat (1:1 and group messaging)",
-        "👥 Follow System to connect with others",
-        "❤️ Like and react to posts",
-        "📞 Group Voice/Video Calling"
-      ],
-
-      "stack": {
+        "React": "simple-icons:react",
         "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
-        "PostGres": "simple-icons:postgresql",
-        "Socket.io": "simple-icons:socketdotio",
-        "Go-lang": "simple-icons:go",
-        "Docker": "mdi:docker"
-      }
-    },
-    {
-      "name": "Notbasic",
-      "isActive": true,
-      "description": "An easy-to-use online store where you can browse, shop, and pay securely. It also has a simple admin panel to manage products and track orders smoothly.",
-      "highlights": [
-        "🛒 Cart Management",
-        "📦 Order Management",
-        "🚚 Delivery Tracking",
-        "👛 Wallet Integration",
-        "💳 Secure Payment Gateway",
-        "🧾 Invoice & Billing",
-        "🛍️ Product Browsing & Filtering",
-        "📊 Admin Dashboard"
-      ],
-      "stack": {
-        "Next-Js": "simple-icons:nextdotjs",
-        "Redux": "simple-icons:redux",
         "TypeScript": "simple-icons:typescript",
-        "NodeJS": "ri:nodejs-line",
-        "Mongodb": "simple-icons:mongodb"
+        "Tailwind": "mdi:tailwind",
+        "Node.js": "ri:nodejs-line"
       },
-      "url": "https://notbasic.in/"
+      "url": "https://dealamaze.in"
+    },
+    {
+      "name": "GoTruks (UBL)",
+      "isActive": true,
+      "description": "A smart logistics and transport booking platform for Dubai-based clients, enabling seamless truck booking and shipment management across the Middle East with real-time tracking.",
+      "highlights": [
+        "🚛 Smart Truck Booking System",
+        "📍 Real-time GPS Tracking",
+        "💰 Transparent Pricing Model",
+        "🌍 Cross-border GCC Transport",
+        "❄️ Refrigerated & Container Transport",
+        "📱 Instant Booking & Payment",
+        "📊 Fleet Management Dashboard",
+        "🔒 Secure Payment Gateway"
+      ],
+      "stack": {
+        "React": "simple-icons:react",
+        "TypeScript": "simple-icons:typescript",
+        "Next-Js": "simple-icons:nextdotjs",
+        "Tailwind": "mdi:tailwind",
+        "JavaScript": "simple-icons:javascript"
+      },
+      "url": "https://www.gotruks.com"
+    },
+    {
+      "name": "ParticleFX",
+      "isActive": true,
+      "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
+      "highlights": [
+        "🖼️ Turn Images into Particles",
+        "🌀 Hover & Click Effects",
+        "🎨 Custom Shapes & Filters",
+        "⚙️ Configurable Physics",
+        "📱 Responsive Design",
+        "📸 Export as PNG",
+        "📦 TypeScript Ready",
+        "✨ Works Without Any Framework"
+      ],
+      "stack": {
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "CanvasAPI": "mdi:draw",
+        "HTML5": "simple-icons:html5"
+      },
+      "url": "https://particlefx.anmol.pro"
     },
     {
       "name": "Music WebApp",
@@ -380,7 +366,6 @@
         "🎵 Playlist Management",
         "🔍 Song Search"
       ],
-
       "stack": {
         "React": "simple-icons:react",
         "tailwind": "mdi:tailwind",
@@ -388,28 +373,6 @@
       },
       "github": "https://github.com/Anmol-TheDev/Music_app",
       "url": "https://music.anmol.pro"
-    },
-    {
-      "name": "Stone-Su-man",
-      "isActive": true,
-      "description": "An online shop for selling unique hand-painted stone art, where customers can easily browse, order, and enjoy one-of-a-kind creations.",
-      "highlights": [
-        "🎨 Showcase Hand-Painted Stone Art",
-        "🛒 Easy Product Browsing & Cart",
-        "💳 Secure Online Payments",
-        "📦 Order & Delivery Tracking",
-        "📸 High-Quality Artwork Images",
-        "📱 Mobile-Friendly Design"
-      ],
-      "stack": {
-        "React": "simple-icons:react",
-        "TypeScript": "simple-icons:typescript",
-        "tailwind": "mdi:tailwind",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Hostinger": "simple-icons:hostinger"
-      },
-      "url": "https://stone-su-man.com/"
     }
   ]
 }
